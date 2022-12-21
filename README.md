@@ -4,6 +4,6 @@
  
  ---
  # Overview
- - Collaborated with 3 classmates to visualize, clean, and model the data and develop a report detailing our process and findings
+ - Collaborated with 3 classmates to [visualize](Data_Visualization.ipynb), [clean](Data_Cleaning_1.ipynb), and [model](Model_Tuning_Final.ipynb) the data and develop a [report](Airbnb%20Machine%20Learning%20Project%20Report.pdf) detailing our process and findings
  - Performed feature engineering and selection based on exploratory data analysis
  - Tuned a variety of machine learning models (bagging, random forest, boosting) to construct a hard voting ensemble model that maximized accuracy and precision scores on test data
