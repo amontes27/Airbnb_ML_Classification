@@ -1,6 +1,7 @@
 # Airbnb Machine Learning Classification
- Python code used to create a machine learning model to predict whether Chicago Airbnb listings are above or below the median review score
- [Data Source](http://insideairbnb.com/get-the-data) (Chicago, December 15, 2021, listings.csv.gz)
+Python code used to create a machine learning model to predict whether Chicago Airbnb listings are above or below the median review score
+ 
+[Data Source](http://insideairbnb.com/get-the-data) (Chicago, December 15, 2021, listings.csv.gz)
  
  ---
  # Overview
